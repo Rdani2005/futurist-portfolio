@@ -14,7 +14,10 @@ export const metadata: Metadata = {
   description:
     "Crafting immersive digital experiences one line of code at a time. I'm a passionate web, mobile, and backend developer dedicated to bringing innovative ideas to life through elegant and efficient solutions. Explore my portfolio and discover the power of technology to transform concepts into reality. Let's build something extraordinary together.",
   openGraph: {
-    images: ["/hero.png", "/about.jpeg"],
+    images: [
+      "https://new.rdani2005.com/hero.png",
+      "https://new.rdani2005.com/about.jpeg",
+    ],
     title: "Danny Sequeira | Personal Portfolio",
     description:
       "Crafting immersive digital experiences one line of code at a time. I'm a passionate web, mobile, and backend developer dedicated to bringing innovative ideas to life through elegant and efficient solutions. Explore my portfolio and discover the power of technology to transform concepts into reality. Let's build something extraordinary together.",

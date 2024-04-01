@@ -38,10 +38,10 @@ export const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Crafting immersive digital experiences one line of code at a time.
-            I'm a passionate web, mobile, and backend developer dedicated to
-            bringing innovative ideas to life through elegant and efficient
+            I&apos;m a passionate web, mobile, and backend developer dedicated
+            to bringing innovative ideas to life through elegant and efficient
             solutions. Explore my portfolio and discover the power of technology
-            to transform concepts into reality. Let's build something
+            to transform concepts into reality. Let&apos;s build something
             extraordinary together.
           </p>
           <div>
