@@ -21,6 +21,9 @@ const TAB_DATA: TabData[] = [
         <li>Dot Net</li>
         <li>No SQL</li>
         <li>Docker</li>
+        <li>Microservices</li>
+        <li>Domain Driven Design</li>
+        <li>Spring / SpringBoot</li>
         <li>DJango</li>
       </ul>
     ),
@@ -45,6 +48,20 @@ const TAB_DATA: TabData[] = [
   //     </ul>
   //   ),
   // },
+  {
+    title: "Experience",
+    id: "experience",
+    content: (
+      <ul className="list-disc pl-2">
+        <li>
+          Servicios Internacionales Multidiciplinarios (SIM) | Jan 2024 -
+          Present
+        </li>
+        <li>Freelance Web Developer and Consultant | June 2020 - Present</li>
+        <li>Orbitas Software Development | November 2022 - DIC 2023</li>
+      </ul>
+    ),
+  },
 ];
 
 export const AboutSection = () => {

@@ -8,6 +8,7 @@ import {
   ProjectsSection,
 } from "@/components";
 import { Metadata } from "next";
+import { EmailSection } from "@/components/email/EmailSection";
 
 export const metadata: Metadata = {
   title: "Danny Sequeira | Personal Portfolio",
@@ -33,6 +34,7 @@ const HomePage = () => {
         <ArchievementsSection />
         <AboutSection />
         <ProjectsSection />
+        <EmailSection />
       </div>
       <Footer />
     </main>
