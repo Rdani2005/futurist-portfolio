@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     images: [
       "https://new.rdani2005.com/hero.png",
-      "https://new.rdani2005.com/about.jpeg",
+      // "https://new.rdani2005.com/about.jpeg",
     ],
     title: "Danny Sequeira | Personal Portfolio",
     description:
