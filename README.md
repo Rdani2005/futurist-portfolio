@@ -1,3 +1,9 @@
+---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f55e882-024a-4085-94d2-bd7d6eadc51f/deploy-status)](https://app.netlify.com/sites/new-portfolio-rdani2005/deploys)
+![NextJS](https://img.shields.io/badge/framework-Next_JS-black)
+![Tailwind CSS](https://img.shields.io/badge/Styles-Taiwind_CSS-blue)
+![React](https://img.shields.io/badge/Library-React-blue)
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
