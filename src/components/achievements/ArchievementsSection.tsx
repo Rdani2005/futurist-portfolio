@@ -15,9 +15,8 @@ const achievementsList: Archievement[] = [
     postfix: "+",
   },
   {
-    // prefix: "~",
-    metric: "Users",
-    value: "100,000",
+    metric: "Companies",
+    value: "10",
   },
   {
     metric: "Awards",
@@ -25,7 +24,7 @@ const achievementsList: Archievement[] = [
   },
   {
     metric: "Years",
-    value: "4",
+    value: (new Date().getFullYear() - 2020).toString(),
   },
 ];
 
@@ -46,13 +45,6 @@ export const ArchievementsSection = () => {
                   animateToNumber={parseInt(achievement.value)}
                   locale="en-US"
                   className="text-white text-4xl font-bold"
-                  // configs={(_, index) => {
-                  //   return {
-                  //     mass: 1,
-                  //     friction: 100,
-                  //     tensions: 140 * (index + 1),
-                  //   };
-                  // }}
                 />
                 {achievement.postfix}
               </h2>
