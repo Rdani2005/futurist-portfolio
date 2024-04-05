@@ -16,9 +16,9 @@ export const EmailSection = () => {
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
-          Ready to embark on exciting new opportunities together? I'm all ears
-          for your next big idea or collaboration. Drop me a line below, and
-          let's create something extraordinary
+          Ready to embark on exciting new opportunities together? I&apos;m all
+          ears for your next big idea or collaboration. Drop me a line below,
+          and let&apos;s create something extraordinary
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/rdani2005" target="_blank">
