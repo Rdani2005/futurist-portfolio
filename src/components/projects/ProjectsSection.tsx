@@ -47,7 +47,7 @@ const projectsData: Project[] = [
     description: "Star Wars API Challenge for hiring interviews made for SIM",
     image: "/projects/star-wars.png",
     tag: ["All", "Web"],
-    gitUrl: "",
+    gitUrl: "https://github.com/cr-patitos/starwars-challenge",
     previewUrl: "https://starwars-challenge-jet.vercel.app",
   },
 ];
