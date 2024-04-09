@@ -33,13 +33,22 @@ const projectsData: Project[] = [
     previewUrl: "http://orion.orbitascr.com/",
   },
   {
-    id: 2,
+    id: 4,
     title: "OSS",
     description: "Maintainance Multimodule Application created for Orbitas'",
     image: "/projects/oss-landing.png",
     tag: ["All", "Web", "Mobile"],
     gitUrl: "",
     previewUrl: "https://oss.orbitascr.com/index.html",
+  },
+  {
+    id: 5,
+    title: "Star Wars Challenge",
+    description: "Star Wars API Challenge for hiring interviews made for SIM",
+    image: "/projects/star-wars.png",
+    tag: ["All", "Web"],
+    gitUrl: "",
+    previewUrl: "https://starwars-challenge-jet.vercel.app",
   },
 ];
 
